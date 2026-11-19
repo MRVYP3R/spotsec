@@ -1,6 +1,7 @@
 # Spot-Sec 🎧
 <div align="center">
 <img src="logo.png" alt="SPOTSEC Logo" width="420"/>
+
 **Interfaz gráfica estilo terminal para descargar playlists, álbumes y canciones usando [spotDL](https://github.com/spotDL/spotify-downloader).**
 
 Pega enlaces de Spotify o escribe títulos, elige formato y calidad, y Spot-Sec se encarga del resto: valida la lista, descarga por lotes, reintenta lo que falle y te deja un registro de todo.
