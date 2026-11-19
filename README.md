@@ -34,7 +34,7 @@ Pega enlaces de Spotify o escribe títulos, elige formato y calidad, y Spot-Sec 
 Estas distribuciones protegen el Python del sistema (PEP 668), así que usa un entorno virtual:
 
 ```bash
-git clone https://github.com/TU_USUARIO/spot-sec.git
+git clone https://github.com/MRVYP3R/spot-sec.git
 cd spot-sec
 
 sudo apt install python3-full python3-tk
@@ -48,7 +48,7 @@ spotdl --download-ffmpeg        # o: sudo apt install ffmpeg
 ### Windows
 
 ```powershell
-git clone https://github.com/TU_USUARIO/spot-sec.git
+git clone https://github.com/MRVYP3R/spot-sec.git
 cd spot-sec
 
 python -m venv venv
