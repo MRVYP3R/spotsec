@@ -1,2 +1,2 @@
-customtkinter>=5.2
-spotdl>=4.2
+customtkinter
+spotdl
